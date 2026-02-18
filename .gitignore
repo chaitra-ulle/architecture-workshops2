@@ -1,6 +1,6 @@
 # Binaries
-lab
-driver
+/lab
+/driver
 *.exe
 
 # Go
