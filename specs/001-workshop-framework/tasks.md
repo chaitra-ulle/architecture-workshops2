@@ -181,10 +181,10 @@
 
 ### Implementation
 
-- [ ] T059 [P] [US7] Write participant lab guide with step-by-step commands and expected output per case in docs/LAB.md
-- [ ] T060 [P] [US7] Write facilitator guide with minute-by-minute timeline and talking points in docs/FACILITATOR.md
-- [ ] T061 [P] [US7] Write AI agent prompts for all 4 cases (copy-paste ready) in docs/AGENT_PROMPTS.md
-- [ ] T062 [US7] Create solution branches/tags for each case (step-0, step-1-solution, step-2-solution, step-3-solution, step-4-solution)
+- [X] T059 [P] [US7] Write participant lab guide with step-by-step commands and expected output per case in docs/LAB.md
+- [X] T060 [P] [US7] Write facilitator guide with minute-by-minute timeline and talking points in docs/FACILITATOR.md
+- [X] T061 [P] [US7] Write AI agent prompts for all 4 cases (copy-paste ready) in docs/AGENT_PROMPTS.md
+- [X] T062 [US7] Create solution branches/tags for each case (step-0, step-1-solution, step-2-solution, step-3-solution, step-4-solution)
 
 **Checkpoint**: A facilitator can run the full 60-minute session using only the docs
 
@@ -194,10 +194,10 @@
 
 **Purpose**: Final quality pass
 
-- [ ] T063 [P] Add LEADERBOARD.md template and scoring instructions in LEADERBOARD.md
-- [ ] T064 [P] Update README.md with final architecture diagram, full command reference, and troubleshooting in README.md
-- [ ] T065 Validate full end-to-end: make preflight → prefetch → up → smoke → all 4 scenarios → down
-- [ ] T066 [P] Add `make demo` target that runs setup + all scenarios + generates comparison reports in Makefile
+- [X] T063 [P] Add LEADERBOARD.md template and scoring instructions in LEADERBOARD.md
+- [X] T064 [P] Update README.md with final architecture diagram, full command reference, and troubleshooting in README.md
+- [X] T065 Validate full end-to-end: make preflight → prefetch → up → smoke → all 4 scenarios → down
+- [X] T066 [P] Add `make demo` target that runs setup + all scenarios + generates comparison reports in Makefile
 
 ---
 
